@@ -13,6 +13,16 @@
   "dependencies": {
     "@blueprintjs/core": "1.39.0"
   },
+  "peerDependencies": {
+    "react": "^16.0.0 || ^15.0.1 || ^0.14",
+    "react-addons-css-transition-group": "^15.0.1 || ^0.14",
+    "react-dom": "^16.0.0 || ^15.0.1 || ^0.14"
+  },
+  "devDependencies": {
+    "react": "^15.6.1",
+    "react-addons-css-transition-group": "^15.6.1",
+    "react-dom": "^15.6.1"
+  },
   "repository": {
     "type": "git",
     "url": "https://github.com/Que3216/blueprint-v1.git"
