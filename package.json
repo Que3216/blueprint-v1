@@ -1,6 +1,6 @@
 {
   "name": "blueprint-v1",
-  "version": "1.39.2",
+  "version": "1.39.3",
   "description": "Exports the latest 1.x version of https://github.com/palantir/blueprint/releases. This is useful if you need to simultaneously depend on Blueprint 1.x and 3.x for back-compat reasons.",
   "main": "index.js",
   "typings": "index.d.ts",
