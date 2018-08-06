@@ -1,0 +1,20 @@
+{
+  "name": "blueprint-v1",
+  "version": "1.39.0",
+  "description": "Exports the latest 1.x version of https://github.com/palantir/blueprint/releases. This is useful if you need to simultaneously depend on Blueprint 1.x and 3.x for back-compat reasons.",
+  "main": "index.js",
+  "typings": "index.d.ts",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "sideEffects": false,
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@blueprintjs/core": "1.39.0"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/Que3216/blueprint-v1.git"
+  }
+}
