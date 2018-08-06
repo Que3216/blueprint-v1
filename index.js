@@ -1,1 +1,1 @@
-export * from "@blueprintjs/core";
+module.exports = require('@blueprintjs/core');
