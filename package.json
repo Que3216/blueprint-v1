@@ -8,7 +8,7 @@
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "sideEffects": false,
-  "author": "",
+  "author": "que3217",
   "license": "ISC",
   "dependencies": {
     "@blueprintjs/core": "1.39.0"
